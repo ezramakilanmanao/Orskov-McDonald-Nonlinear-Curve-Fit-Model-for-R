@@ -13,7 +13,7 @@ a = Soluble or washable fraction
 b = Insoluble but potentially degradable fraction
 c = Degradation rate of fraction b (per hour)
 
-**3. Effective Degradability (ED):** Computes ED values using an adjustable passage rate (k), which defaults to 0.5 and can be modified as needed.
+**3. Effective Degradability (ED):** Computes ED values using an adjustable passage rate (k), which defaults to 0.05 and can be modified as needed.
 
 **4. Data Visualization:** Generates a clean, publication-ready graph representing the nonlinear curve fit against your actual data points.
 
