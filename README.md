@@ -19,5 +19,5 @@ c = Degradation rate of fraction b (per hour)
 
 **B. Model Formula**
 
-The script fits the standard kinetics equation:p = a + b(1 - e^{-ct})
+The script fits the standard kinetics equation: p = a + b(1 - e^{-ct})
 Where p is the disappearance at time t.
